@@ -1,0 +1,32 @@
+#table 
+{
+	padding-top: 30px;
+}
+
+#ks-datatable th, td
+{
+	margin-top:0 !important;
+	padding-bottom:20px !important;
+	margin:0px 20px 20px 20px !important;
+	border-bottom:1px solid rgba(255,255,255,1) !important;
+	text-align:center !important;
+}
+
+.restaurant 
+{
+	display: none;
+}
+
+.logo
+{
+	 max-height: 30px;
+}
+
+.kpi
+{
+	margin:0px 20px 20px 20px !important;
+}
+
+
+
+
